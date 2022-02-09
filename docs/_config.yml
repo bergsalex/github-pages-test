@@ -1,6 +1,3 @@
 theme: minimal
 navigation_categories:
-  variant_annotation: Variant Annotation
-  variant_representation: Variant Representation
-  news: News
-  howto: Examples & Guides
+  contact: Contact Us
