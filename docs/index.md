@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: index.html
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bergsalex/github-pages-test/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
