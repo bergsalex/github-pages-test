@@ -1,3 +1,26 @@
 theme: minimal
-navigation_categories:
-  contact: Contact Us
+navigation_static_links:
+  ga4gh:
+    url: "http://ga4gh.org"
+    label: "GA4GH Main Site"
+  ga4gh-cp:
+    url: "http://ga4gh-cp.github.io"
+    label: "GA4GH::CP"
+  ga4gh-duo:
+    url: "http://ga4gh-duo.github.io"
+    label: "GA4GH::DUO"
+  ga4gh-gks:
+    url: "http://ga4gh-gks.github.io"
+    label: "GA4GH::GKS"
+  ga4gh-metadata:
+    url: "http://ga4gh-metadata.github.io"
+    label: "GA4GH::Metadata"
+  ga4gh-lsg:
+    url: "https://github.com/ga4gh/large-scale-genomics-wiki/wiki/"
+    label: "GA4GH Large Scale Genomics"   
+  phenopackets:
+    url: "https://github.com/phenopackets"
+    label: "Phenopackets PXF"   
+  ga4gh-github:
+    url: "https://github.com/ga4gh/"
+    label: "GA4GH Github Projects"
